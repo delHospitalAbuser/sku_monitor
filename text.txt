@@ -1,1 +1,1 @@
-SKU,SKU - 1,AR4997-363,SKU - 123,
+sku - 1,sku - 2
